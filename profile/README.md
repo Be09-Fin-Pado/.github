@@ -105,58 +105,60 @@
 
 
 ---
-✔️✔️프로젝트 산출물 
+# ✔️ 프로젝트 산출물
 
 ---
-프로젝트 기획
----
-# ✔️ 프로젝트 기획서
+
+## 📑 프로젝트 기획
+
+### 📌 프로젝트 기획서
 [![프로젝트 기획서](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.png)](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.png)
 
+### 📌 요구사항 정의서
+[![요구사항 정의서 보기](https://img.shields.io/badge/📄_요구사항_정의서-문서_열기-2E8B57?style=for-the-badge&logo=adobeacrobatreader&labelColor=darkgreen&labelWidth=20)](https://github.com/Be09-Fin-Pado/.github/blob/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/%EC%9A%94%EA%B5%AC%EC%82%AC%EC%9E%A5%20%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 
+### 📌 시스템 아키텍처
+_(시스템 아키텍처 추가 예정)_
 
-
-# ✔️ 요구사항 정의서 
-[요구사항 정의서](https://docs.google.com/spreadsheets/d/1yAbyAwXgMP8eol2gewNniLro8HVnIQemVhnMo0F4KIo/edit?gid=0#gid=0)
-
-
-# ✔️ 시스템 아키텍처
-
-
-# ✔️ WBS
-
+### 📌 WBS (Work Breakdown Structure)
 [![Be09-Fin-WBS](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)
 
+### 📌 ERD
+_(개념,논리 물리 모델링 추가 예정)_
 
-# ✔️ ERD
-
-
-# ✔️ 화면 설계서
-
----
-백엔드 설계 및 구축
----
-
-# ✔️ 프로젝트 사양서
-
-# ✔️ 단위 테스트 결과서
-
----
-프론트앤드 설계 및 구축
----
-# ✔️ UI/UX 단위 테스트
-
----
-시스템 통합
----
-
-# ✔️ 통합 테스트 결과서
-# ✔️ CI/CD 계획서
+### 📌 화면 설계서
+_(화면 설계서 추가 예정)_
 
 ---
 
-# ✔️ 동료 평가<a id="동료-평가">
+## 🖥️ 백엔드 설계 및 구축
 
+### 📌 프로젝트 사양서
+_(사양서 추가 예정)_
+
+### 📌 단위 테스트 결과서
+_(테스트 결과서 추가 예정)_
+
+---
+
+## 🎨 프론트엔드 설계 및 구축
+
+### 📌 UI/UX 단위 테스트
+_(UI/UX 테스트 결과 추가 예정)_
+
+---
+
+## 🔄 시스템 통합
+
+### 📌 통합 테스트 결과서
+_(통합 테스트 결과서 추가 예정)_
+
+### 📌 CI/CD 계획서
+_(CI/CD 계획서 링크 추가 예정)_
+
+---
+
+## 💼 동료 평가 <a id="동료-평가">
 
 | Team Member | 박경희님의 동료평가                                                                                                                                                                                                                       |
 | :---------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
