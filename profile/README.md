@@ -98,6 +98,7 @@
 
 
 # ✔️ 요구사항 정의서 
+[요구사항 정의서](https://docs.google.com/spreadsheets/d/1yAbyAwXgMP8eol2gewNniLro8HVnIQemVhnMo0F4KIo/edit?gid=0#gid=0)
 
 
 # ✔️ 시스템 아키텍처
@@ -105,6 +106,7 @@
 
 # ✔️ WBS
 
+![WBS](https://github.com/Be09-Fin-Pado/.github/blob/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)
 
 # ✔️ ERD
 
