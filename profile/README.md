@@ -125,16 +125,39 @@
 [![Be09-Fin-WBS](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)
 
 ### 📌 ERD
-_(개념,논리 물리 모델링 추가 예정)_
+![image](https://github.com/user-attachments/assets/e8d00ece-4630-4659-a210-6cf82cd3a0cd)
 
 ### 📌 화면 설계서
+<details><summary>메인</summary>
+  
+ - <details><summary>로그인</summary>
+ ![image](https://github.com/user-attachments/assets/a37688f8-eba4-47d5-9ddd-401a78d0a213)
+</details>
+ - <details><summary>메인화면</summary>
+ ![image](https://github.com/user-attachments/assets/702372d4-060d-4f35-99e8-44fed5762f35)
+</details>
+ 
 <details><summary>인사관리</summary>
   
-  - <details><summary>사원 정보 등록</summary></details>
-  - <details><summary>인사 발령</summary></details>
-  - <details><summary>계약서 서명 및 조회</summary></details>
-  - <details><summary>사원 정보 조회</summary></details>
-  - <details><summary>부서 관리</summary></details>
+  - <details><summary>사원 정보 등록</summary>
+  ![image](https://github.com/user-attachments/assets/bd5e96f4-aa08-403b-aaa7-51f1a7ee5f76)
+</details>
+  - <details><summary>인사 발령</summary>
+  ![image](https://github.com/user-attachments/assets/9d92db8e-104b-43b1-9a3a-a5e2250c124a)
+</details>
+  - <details><summary>계약서 서명 및 조회</summary>
+  ![image](https://github.com/user-attachments/assets/01672fcc-2dc0-4080-a9b3-044c660f9bfe)
+</details>
+  - <details><summary>사원 정보 조회</summary>
+  ![image](https://github.com/user-attachments/assets/be925771-091b-49a8-8e98-aa26fcb12ba2)
+</details>
+  
+  - <details><summary>부서 관리</summary>
+  ![image](https://github.com/user-attachments/assets/237d6ae0-8100-44a2-b249-c22a1cef79db)
+  ![image](https://github.com/user-attachments/assets/62919249-8b79-4e1c-8914-0d58457cf996)
+  ![image](https://github.com/user-attachments/assets/b56b664d-c78c-49df-85a3-dc3c0a9ee603)
+
+  </details>
   - <details><summary>급여 관리</summary>
     
     ![image](https://github.com/user-attachments/assets/584f17fd-ec31-4fc3-a5cb-f1e21b9bc470)
@@ -147,12 +170,28 @@ _(개념,논리 물리 모델링 추가 예정)_
 
 <details><summary>인사기본</summary>
 
-  - <details><summary>개인 신상 관리</summary></details>
-  - <details><summary>근태 정보</summary></details>
-  - <details><summary>출퇴근 관리</summary></details>
-  - <details><summary>재택 근무 관리</summary></details>
-  - <details><summary>출장 및 파견 관리</summary></details>
-  - <details><summary>휴가 관리</summary></details>
+  - <details><summary>개인 신상 관리</summary>
+  ![image](https://github.com/user-attachments/assets/986457c8-358a-4115-ad2f-6fe5a09ef4e4)
+</details>
+  - <details><summary>근태 정보</summary>
+  ![image](https://github.com/user-attachments/assets/d1f742dd-001e-4850-9007-62a465dbdbe6)
+</details>
+  - <details><summary>출퇴근 관리
+![image](https://github.com/user-attachments/assets/4ba438c4-fbea-4ed0-828e-3364c7a730c0)
+
+  </summary>
+ 
+</details>
+  - <details><summary>재택 근무 관리</summary>
+  ![image](https://github.com/user-attachments/assets/3778854c-e22e-4bcf-9727-8d009fdd6f62)
+</details>
+  - <details><summary>출장 및 파견 관리</summary>
+  ![image](https://github.com/user-attachments/assets/9cb40335-7b8a-4f2b-92ed-0f705ad2c32f)
+
+</details>
+  - <details><summary>휴가 관리</summary>
+ 
+  </details>
   - <details><summary>급여 및 수당</summary>
     
     ![image](https://github.com/user-attachments/assets/8ecf7984-1c71-4191-9191-e71fea989381)
