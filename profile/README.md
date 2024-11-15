@@ -130,14 +130,24 @@ _(개념,논리 물리 모델링 추가 예정)_
 ### 📌 화면 설계서
 <details><summary>인사관리</summary>
   
+  - <details><summary>사원 정보 등록</summary></details>
+  - <details><summary>인사 발령</summary></details>
+  - <details><summary>계약서 서명 및 조회</summary></details>
+  - <details><summary>사원 정보 조회</summary></details>
+  - <details><summary>부서 관리</summary></details>
+  - <details><summary>급여 관리</summary></details>
+  
 </details>
 
 <details><summary>인사기본</summary>
-  
-  - <details><summary>사원</summary>
-    </details>
-  - <details><summary>급여</summary>
-    </details>
+
+  - <details><summary>개인 신상 관리</summary></details>
+  - <details><summary>근태 정보</summary></details>
+  - <details><summary>출퇴근 관리</summary></details>
+  - <details><summary>재택 근무 관리</summary></details>
+  - <details><summary>출장 및 파견 관리</summary></details>
+  - <details><summary>휴가 관리</summary></details>
+  - <details><summary>급여 및 수당</summary></details>
   
 </details>
 
