@@ -127,84 +127,90 @@
 ### 📌 ERD
 ![image](https://github.com/user-attachments/assets/e8d00ece-4630-4659-a210-6cf82cd3a0cd)
 
-### 📌 화면 설계서
+# 📌 화면 설계서
+
 <details><summary>메인</summary>
-  
- - <details><summary>로그인</summary>
- ![image](https://github.com/user-attachments/assets/a37688f8-eba4-47d5-9ddd-401a78d0a213)
+
+- <details><summary>로그인</summary>
+  <img src="https://github.com/user-attachments/assets/a37688f8-eba4-47d5-9ddd-401a78d0a213" alt="로그인 화면">
+  </details>
+
+- <details><summary>메인화면</summary>
+  <img src="https://github.com/user-attachments/assets/702372d4-060d-4f35-99e8-44fed5762f35" alt="메인화면">
+  </details>
+
 </details>
- - <details><summary>메인화면</summary>
- ![image](https://github.com/user-attachments/assets/702372d4-060d-4f35-99e8-44fed5762f35)
-</details>
- 
+
 <details><summary>인사관리</summary>
-  
-  - <details><summary>사원 정보 등록</summary>
-  ![image](https://github.com/user-attachments/assets/bd5e96f4-aa08-403b-aaa7-51f1a7ee5f76)
-</details>
-  - <details><summary>인사 발령</summary>
-  ![image](https://github.com/user-attachments/assets/9d92db8e-104b-43b1-9a3a-a5e2250c124a)
-</details>
-  - <details><summary>계약서 서명 및 조회</summary>
-  ![image](https://github.com/user-attachments/assets/01672fcc-2dc0-4080-a9b3-044c660f9bfe)
-</details>
-  - <details><summary>사원 정보 조회</summary>
-  ![image](https://github.com/user-attachments/assets/be925771-091b-49a8-8e98-aa26fcb12ba2)
-</details>
-  
-  - <details><summary>부서 관리</summary>
-  ![image](https://github.com/user-attachments/assets/237d6ae0-8100-44a2-b249-c22a1cef79db)
-  ![image](https://github.com/user-attachments/assets/62919249-8b79-4e1c-8914-0d58457cf996)
-  ![image](https://github.com/user-attachments/assets/b56b664d-c78c-49df-85a3-dc3c0a9ee603)
 
+- <details><summary>사원 정보 등록</summary>
+  <img src="https://github.com/user-attachments/assets/bd5e96f4-aa08-403b-aaa7-51f1a7ee5f76" alt="사원 정보 등록">
   </details>
-  - <details><summary>급여 관리</summary>
-    
-    ![image](https://github.com/user-attachments/assets/584f17fd-ec31-4fc3-a5cb-f1e21b9bc470)
-    ![image](https://github.com/user-attachments/assets/e928ef98-6923-4461-8fa7-cc093fb12206)
-    ![image](https://github.com/user-attachments/assets/a366ec39-90e3-48a2-9f87-b5e4faeb04f2)
 
+- <details><summary>인사 발령</summary>
+  <img src="https://github.com/user-attachments/assets/9d92db8e-104b-43b1-9a3a-a5e2250c124a" alt="인사 발령">
   </details>
-  
+
+- <details><summary>계약서 서명 및 조회</summary>
+  <img src="https://github.com/user-attachments/assets/01672fcc-2dc0-4080-a9b3-044c660f9bfe" alt="계약서 서명 및 조회">
+  </details>
+
+- <details><summary>사원 정보 조회</summary>
+  <img src="https://github.com/user-attachments/assets/be925771-091b-49a8-8e98-aa26fcb12ba2" alt="사원 정보 조회">
+  </details>
+
+- <details><summary>부서 관리</summary>
+  <img src="https://github.com/user-attachments/assets/237d6ae0-8100-44a2-b249-c22a1cef79db" alt="부서 관리 1">
+  <img src="https://github.com/user-attachments/assets/62919249-8b79-4e1c-8914-0d58457cf996" alt="부서 관리 2">
+  <img src="https://github.com/user-attachments/assets/b56b664d-c78c-49df-85a3-dc3c0a9ee603" alt="부서 관리 3">
+  </details>
+
+- <details><summary>급여 관리</summary>
+  <img src="https://github.com/user-attachments/assets/584f17fd-ec31-4fc3-a5cb-f1e21b9bc470" alt="급여 관리 1">
+  <img src="https://github.com/user-attachments/assets/e928ef98-6923-4461-8fa7-cc093fb12206" alt="급여 관리 2">
+  <img src="https://github.com/user-attachments/assets/a366ec39-90e3-48a2-9f87-b5e4faeb04f2" alt="급여 관리 3">
+  </details>
+
 </details>
 
 <details><summary>인사기본</summary>
 
-  - <details><summary>개인 신상 관리</summary>
-  ![image](https://github.com/user-attachments/assets/986457c8-358a-4115-ad2f-6fe5a09ef4e4)
-</details>
-  - <details><summary>근태 정보</summary>
-  ![image](https://github.com/user-attachments/assets/d1f742dd-001e-4850-9007-62a465dbdbe6)
-</details>
-  - <details><summary>출퇴근 관리
-![image](https://github.com/user-attachments/assets/4ba438c4-fbea-4ed0-828e-3364c7a730c0)
-
-  </summary>
- 
-</details>
-  - <details><summary>재택 근무 관리</summary>
-  ![image](https://github.com/user-attachments/assets/3778854c-e22e-4bcf-9727-8d009fdd6f62)
-</details>
-  - <details><summary>출장 및 파견 관리</summary>
-  ![image](https://github.com/user-attachments/assets/9cb40335-7b8a-4f2b-92ed-0f705ad2c32f)
-
-</details>
-  - <details><summary>휴가 관리</summary>
- 
+- <details><summary>개인 신상 관리</summary>
+  <img src="https://github.com/user-attachments/assets/986457c8-358a-4115-ad2f-6fe5a09ef4e4" alt="개인 신상 관리">
   </details>
-  - <details><summary>급여 및 수당</summary>
-    
-    ![image](https://github.com/user-attachments/assets/8ecf7984-1c71-4191-9191-e71fea989381)
-    ![image](https://github.com/user-attachments/assets/dec8c4e5-0b18-4522-9aa2-985220a85ce0)
-    ![image](https://github.com/user-attachments/assets/35126fe2-ffa2-408c-a666-50c9d96743a8)
 
-</details>
-  
+- <details><summary>근태 정보</summary>
+  <img src="https://github.com/user-attachments/assets/d1f742dd-001e-4850-9007-62a465dbdbe6" alt="근태 정보">
+  </details>
+
+- <details><summary>출퇴근 관리</summary>
+  <img src="https://github.com/user-attachments/assets/4ba438c4-fbea-4ed0-828e-3364c7a730c0" alt="출퇴근 관리">
+  </details>
+
+- <details><summary>재택 근무 관리</summary>
+  <img src="https://github.com/user-attachments/assets/3778854c-e22e-4bcf-9727-8d009fdd6f62" alt="재택 근무 관리">
+  </details>
+
+- <details><summary>출장 및 파견 관리</summary>
+  <img src="https://github.com/user-attachments/assets/9cb40335-7b8a-4f2b-92ed-0f705ad2c32f" alt="출장 및 파견 관리">
+  </details>
+
+- <details><summary>휴가 관리</summary>
+  (이미지가 누락되었습니다)
+  </details>
+
+- <details><summary>급여 및 수당</summary>
+  <img src="https://github.com/user-attachments/assets/8ecf7984-1c71-4191-9191-e71fea989381" alt="급여 및 수당 1">
+  <img src="https://github.com/user-attachments/assets/dec8c4e5-0b18-4522-9aa2-985220a85ce0" alt="급여 및 수당 2">
+  <img src="https://github.com/user-attachments/assets/35126fe2-ffa2-408c-a666-50c9d96743a8" alt="급여 및 수당 3">
+  </details>
+
 </details>
 
 <details><summary>평가</summary>
-  
+(내용과 이미지를 추가해야 합니다)
 </details>
+
 
 ---
 
