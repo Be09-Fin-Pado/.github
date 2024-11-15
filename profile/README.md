@@ -128,7 +128,25 @@
 _(개념,논리 물리 모델링 추가 예정)_
 
 ### 📌 화면 설계서
-_(화면 설계서 추가 예정)_
+<details><summary>인사관리</summary>
+  
+</details>
+
+<details><summary>인사기본</summary>
+  
+  <details><summary>사원</summary>
+    
+  </details>
+
+  <details><summary>급여</summary>
+    
+  </details>
+  
+</details>
+
+<details><summary>평가</summary>
+  
+</details>
 
 ---
 
