@@ -129,6 +129,7 @@
 
 # 📌 화면 설계서
 
+## 메인
 <details><summary>메인</summary>
 
 - <details><summary>로그인</summary>
@@ -141,6 +142,9 @@
 
 </details>
 
+---
+
+## 인사관리
 <details><summary>인사관리</summary>
 
 - <details><summary>사원 정보 등록</summary>
@@ -173,6 +177,9 @@
 
 </details>
 
+---
+
+## 인사기본
 <details><summary>인사기본</summary>
 
 - <details><summary>개인 신상 관리</summary>
@@ -218,18 +225,23 @@
   <img src="https://github.com/user-attachments/assets/35126fe2-ffa2-408c-a666-50c9d96743a8" alt="급여 및 수당 3">
 </details>
 
+</details>
+
+---
+
+## 평가
 <details><summary>평가</summary>
 
-  - <details><summary>평가 조회</summary>
-    <img src="https://github.com/user-attachments/assets/51347d26-c24d-47a3-9e38-e75d08f4fa7f" alt="평가 조회">
+- <details><summary>평가 조회</summary>
+  <img src="https://github.com/user-attachments/assets/51347d26-c24d-47a3-9e38-e75d08f4fa7f" alt="평가 조회">
   </details>
 
-  - <details><summary>평가 인사관리</summary>
-    <img src="https://github.com/user-attachments/assets/77543d94-3454-4196-b675-b14606a3e99e" alt="평가 인사관리">
+- <details><summary>평가 인사관리</summary>
+  <img src="https://github.com/user-attachments/assets/77543d94-3454-4196-b675-b14606a3e99e" alt="평가 인사관리">
   </details>
 
-  - <details><summary>과제 등록 및 조회</summary>
-    <img src="https://github.com/user-attachments/assets/aa43e8e7-2eb5-4908-8b09-7e762d9c18f2" alt="과제 등록 및 조회">
+- <details><summary>과제 등록 및 조회</summary>
+  <img src="https://github.com/user-attachments/assets/aa43e8e7-2eb5-4908-8b09-7e762d9c18f2" alt="과제 등록 및 조회">
   </details>
 
 </details>
