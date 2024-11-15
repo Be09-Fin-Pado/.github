@@ -134,13 +134,10 @@ _(개념,논리 물리 모델링 추가 예정)_
 
 <details><summary>인사기본</summary>
   
-  <details><summary>사원</summary>
-    
-  </details>
-
-  <details><summary>급여</summary>
-    
-  </details>
+  - <details><summary>사원</summary>
+    </details>
+  - <details><summary>급여</summary>
+    </details>
   
 </details>
 
