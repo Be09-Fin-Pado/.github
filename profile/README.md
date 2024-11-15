@@ -135,7 +135,13 @@ _(개념,논리 물리 모델링 추가 예정)_
   - <details><summary>계약서 서명 및 조회</summary></details>
   - <details><summary>사원 정보 조회</summary></details>
   - <details><summary>부서 관리</summary></details>
-  - <details><summary>급여 관리</summary></details>
+  - <details><summary>급여 관리</summary>
+    
+    ![image](https://github.com/user-attachments/assets/584f17fd-ec31-4fc3-a5cb-f1e21b9bc470)
+    ![image](https://github.com/user-attachments/assets/e928ef98-6923-4461-8fa7-cc093fb12206)
+    ![image](https://github.com/user-attachments/assets/a366ec39-90e3-48a2-9f87-b5e4faeb04f2)
+
+  </details>
   
 </details>
 
@@ -147,7 +153,13 @@ _(개념,논리 물리 모델링 추가 예정)_
   - <details><summary>재택 근무 관리</summary></details>
   - <details><summary>출장 및 파견 관리</summary></details>
   - <details><summary>휴가 관리</summary></details>
-  - <details><summary>급여 및 수당</summary></details>
+  - <details><summary>급여 및 수당</summary>
+    
+    ![image](https://github.com/user-attachments/assets/8ecf7984-1c71-4191-9191-e71fea989381)
+    ![image](https://github.com/user-attachments/assets/dec8c4e5-0b18-4522-9aa2-985220a85ce0)
+    ![image](https://github.com/user-attachments/assets/35126fe2-ffa2-408c-a666-50c9d96743a8)
+
+</details>
   
 </details>
 
