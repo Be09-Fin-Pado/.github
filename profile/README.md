@@ -214,16 +214,16 @@
 
 - <details><summary>휴가 관리</summary>
 
-  - <details><summary>휴가 지급</summary>
-    <img src="https://github.com/user-attachments/assets/d506f11b-aef1-4ef9-8cfc-6e0dd6e893f1" alt="휴가 지급">
-    
-    <img src="https://github.com/user-attachments/assets/3f1bf66d-4de3-4e6e-9b81-aed208e7025d" alt="비정기 휴가 지급">
-  </details>
-
-  </details>
-
   - <details><summary>휴가 정책 등록 및 조회</summary>
     <img src="https://github.com/user-attachments/assets/4bd2087e-984b-4a29-8217-296bdb32f10b" alt="휴가 정책 등록 및 조회">
+  </details>
+
+  - <details><summary>휴가 지급</summary>
+        
+    <img src="https://github.com/user-attachments/assets/3f1bf66d-4de3-4e6e-9b81-aed208e7025d" alt="비정기 휴가 지급-사원검색">
+    <img src="https://github.com/user-attachments/assets/d506f11b-aef1-4ef9-8cfc-6e0dd6e893f1" alt="비정기 휴가 지급">
+  </details>
+
   </details>
 
 </details>
