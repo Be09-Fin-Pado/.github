@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/35794bfc-abed-475e-b83f-82b8e0f94514)
 ## Team _Pado_<a id="팀-소개">
 
 [<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://www.notion.so/4vengers-1133c20995cb8086b316f83013f75823)
@@ -198,11 +197,7 @@
 <details><summary>인사기본</summary>
 
 - <details><summary>개인 신상 관리</summary>
-  <img src="https://github.com/user-attachments/assets/986457c8-358a-4115-ad2f-6fe5a09ef4e4" alt="개인 신상 관리">
-  </details>
-
-- <details><summary>근태 정보</summary>
-  <img src="https://github.com/user-attachments/assets/d1f742dd-001e-4850-9007-62a465dbdbe6" alt="근태 정보">
+  <img src="https://github.com/user-attachments/assets/7ea2ac59-f28e-4c36-9f32-5b214aad6c66" alt="개인 신상 관리">
   </details>
 
 - <details><summary>출퇴근 관리</summary>
