@@ -158,6 +158,9 @@
 
 - <details><summary>사원 정보 등록</summary>
   <img src="https://github.com/user-attachments/assets/bd5e96f4-aa08-403b-aaa7-51f1a7ee5f76" alt="사원 정보 등록">
+
+  <img src="https://github.com/user-attachments/assets/d3b5dba9-3dd0-4f58-b647-264b83ec4571" alt="문자전송">
+
   </details>
 
 - <details><summary>인사 발령</summary>
