@@ -162,6 +162,9 @@
   <img src="https://github.com/user-attachments/assets/d3b5dba9-3dd0-4f58-b647-264b83ec4571" alt="문자전송">
 
   </details>
+- <details><summary>사원 정보 조회</summary>
+  <img src="https://github.com/user-attachments/assets/be925771-091b-49a8-8e98-aa26fcb12ba2" alt="사원 정보 조회">
+  </details>
 
 - <details><summary>인사 발령</summary>
   <img src="https://github.com/user-attachments/assets/9d92db8e-104b-43b1-9a3a-a5e2250c124a" alt="인사 발령">
@@ -171,9 +174,6 @@
   <img src="https://github.com/user-attachments/assets/01672fcc-2dc0-4080-a9b3-044c660f9bfe" alt="계약서 서명 및 조회">
   </details>
 
-- <details><summary>사원 정보 조회</summary>
-  <img src="https://github.com/user-attachments/assets/be925771-091b-49a8-8e98-aa26fcb12ba2" alt="사원 정보 조회">
-  </details>
 
 - <details><summary>부서 관리</summary>
   <img src="https://github.com/user-attachments/assets/237d6ae0-8100-44a2-b249-c22a1cef79db" alt="부서 관리 1">
