@@ -147,6 +147,13 @@
 
 ---
 
+## 사원찾기
+<details><summary>사원찾기</summary>
+<img width="1214" alt="스크린샷 2024-11-26 오후 8 37 16" src="https://github.com/user-attachments/assets/78d55bed-6bf8-48e6-a78c-a269d54c48f9">
+</details>
+
+---
+
 ## 인사관리
 <details><summary>인사관리</summary>
 
@@ -168,8 +175,9 @@
 
 - <details><summary>부서 관리</summary>
   <img src="https://github.com/user-attachments/assets/237d6ae0-8100-44a2-b249-c22a1cef79db" alt="부서 관리 1">
-  <img src="https://github.com/user-attachments/assets/62919249-8b79-4e1c-8914-0d58457cf996" alt="부서 관리 2">
   <img src="https://github.com/user-attachments/assets/b56b664d-c78c-49df-85a3-dc3c0a9ee603" alt="부서 관리 3">
+  <img src="https://github.com/user-attachments/assets/62919249-8b79-4e1c-8914-0d58457cf996" alt="부서 관리 2">
+
   </details>
 
 - <details><summary>급여 관리</summary>
