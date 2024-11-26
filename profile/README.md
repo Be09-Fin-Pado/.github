@@ -210,9 +210,8 @@
   - <details><summary>휴가 지급</summary>
     <img src="https://github.com/user-attachments/assets/d506f11b-aef1-4ef9-8cfc-6e0dd6e893f1" alt="휴가 지급">
     
-    - <details><summary>비정기 휴가 지급</summary>
-      <img src="https://github.com/user-attachments/assets/3f1bf66d-4de3-4e6e-9b81-aed208e7025d" alt="비정기 휴가 지급">
-    </details>
+    <img src="https://github.com/user-attachments/assets/3f1bf66d-4de3-4e6e-9b81-aed208e7025d" alt="비정기 휴가 지급">
+  </details>
 
   </details>
 
