@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/35794bfc-abed-475e-b83f-82b8e0f94514)
 ## Team _Pado_<a id="팀-소개">
 
 [<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://www.notion.so/4vengers-1133c20995cb8086b316f83013f75823)
@@ -167,12 +167,14 @@
   </details>
 
 - <details><summary>인사 발령</summary>
-  <img src="https://github.com/user-attachments/assets/9d92db8e-104b-43b1-9a3a-a5e2250c124a" alt="인사 발령">
+  <img src="https://github.com/user-attachments/assets/3ed4a02c-37fd-4fb2-b024-1364dc0c00b7" alt="인사 발령">
+
   </details>
 
 - <details><summary>계약서 서명 및 조회</summary>
-  <img src="https://github.com/user-attachments/assets/01672fcc-2dc0-4080-a9b3-044c660f9bfe" alt="계약서 서명 및 조회">
+  <img src="https://github.com/user-attachments/assets/1fce5c75-0f7d-419e-beef-421f5ab1bbbb" alt="계약서 서명 및 조회">
   </details>
+
 
 
 - <details><summary>부서 관리</summary>
