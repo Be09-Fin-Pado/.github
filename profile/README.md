@@ -1,10 +1,10 @@
 ## Team _Pado_<a id="팀-소개">
 
 [<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://www.notion.so/4vengers-1133c20995cb8086b316f83013f75823)
-| <img src="https://github.com/user-attachments/assets/5a0d8aa8-0a1f-41f3-a93f-b2985c1765d6" height="100"/> | <img src="https://github.com/user-attachments/assets/79d48cf7-bdd4-4ec1-831c-bb57d5d9f57d" height="100"/> | <img src="https://github.com/user-attachments/assets/74133185-5305-4361-a9e0-52e76f67de3d" height="100"/> | <img src="https://github.com/user-attachments/assets/a17e5ef4-f7be-48fb-ae41-5cd3b27f5918" height="100"/> | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height="100"/> | <img src="https://github.com/user-attachments/assets/8381e8af-6a25-4f00-8a5e-454323d1f340" height="100"/> |
+| <img src="https://github.com/user-attachments/assets/5a0d8aa8-0a1f-41f3-a93f-b2985c1765d6" height="100"/> | <img src="https://github.com/user-attachments/assets/79d48cf7-bdd4-4ec1-831c-bb57d5d9f57d" height="100"/> | <img src="https://github.com/user-attachments/assets/74133185-5305-4361-a9e0-52e76f67de3d" height="100"/> | <img src="https://github.com/user-attachments/assets/a17e5ef4-f7be-48fb-ae41-5cd3b27f5918" height="100"/> | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height="100"/> | <img src="https://github.com/user-attachments/assets/87c92c58-17cc-4ee5-bd27-6e580623a86e" height="100"/>|
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | 박경희 | 윤채연 | 전기범 | 장민근 | 조창욱 | 최해관 | 
-| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/iwillbfine) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/yncayn) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/caolian2003) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) |
+| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/iwillbfine) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/yncayn) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/caolian2003) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Haegwan-Choe) |
 | ISTP | ISFP | INFJ | INTP | ESTJ | ENTJ |
 
 ---
@@ -125,7 +125,8 @@
 [![Be09-Fin-WBS](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)
 
 ### 📌 ERD
-![image](https://github.com/user-attachments/assets/e8d00ece-4630-4659-a210-6cf82cd3a0cd)
+![image](https://github.com/user-attachments/assets/1c1de5d1-d7da-4eac-816e-7d41e5191efd)
+
 
 # 📌 화면 설계서
 
@@ -211,27 +212,25 @@
   <img src="https://github.com/user-attachments/assets/9cb40335-7b8a-4f2b-92ed-0f705ad2c32f" alt="출장 및 파견 관리">
   </details>
 
+- <details><summary>급여 및 수당</summary>
+  <img src="https://github.com/user-attachments/assets/8ecf7984-1c71-4191-9191-e71fea989381" alt="급여 및 수당 1">
+  <img src="https://github.com/user-attachments/assets/dec8c4e5-0b18-4522-9aa2-985220a85ce0" alt="급여 및 수당 2">
+  <img src="https://github.com/user-attachments/assets/35126fe2-ffa2-408c-a666-50c9d96743a8" alt="급여 및 수당 3">
+  </details>
+
 - <details><summary>휴가 관리</summary>
 
   - <details><summary>휴가 정책 등록 및 조회</summary>
     <img src="https://github.com/user-attachments/assets/4bd2087e-984b-4a29-8217-296bdb32f10b" alt="휴가 정책 등록 및 조회">
-  </details>
+    </details>
 
   - <details><summary>휴가 지급</summary>
         
     <img src="https://github.com/user-attachments/assets/3f1bf66d-4de3-4e6e-9b81-aed208e7025d" alt="비정기 휴가 지급-사원검색">
     <img src="https://github.com/user-attachments/assets/d506f11b-aef1-4ef9-8cfc-6e0dd6e893f1" alt="비정기 휴가 지급">
-  </details>
+    </details>
 
   </details>
-
-</details>
-
-- <details><summary>급여 및 수당</summary>
-  <img src="https://github.com/user-attachments/assets/8ecf7984-1c71-4191-9191-e71fea989381" alt="급여 및 수당 1">
-  <img src="https://github.com/user-attachments/assets/dec8c4e5-0b18-4522-9aa2-985220a85ce0" alt="급여 및 수당 2">
-  <img src="https://github.com/user-attachments/assets/35126fe2-ffa2-408c-a666-50c9d96743a8" alt="급여 및 수당 3">
-</details>
 
 </details>
 
