@@ -134,12 +134,12 @@
 ![image](https://github.com/user-attachments/assets/e21397c2-aa73-4579-a67f-245f0bf778af)
 
 
-
 ### 📌 WBS (Work Breakdown Structure)
 [![Be09-Fin-WBS](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)
 
-### 📌 ERD
-![image](https://github.com/user-attachments/assets/1c1de5d1-d7da-4eac-816e-7d41e5191efd)
+### 📌 ERD(개념 모델링)
+![image](https://github.com/user-attachments/assets/2be2d296-c653-4630-823c-2a251656b243)
+
 
 
 # 📌 화면 설계서
