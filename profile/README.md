@@ -143,12 +143,9 @@
 |--------------------|--------------------------------------------------------------------------|
 | **EC2 (Frontend)** | t2.medium (2 vCPU, 4GB RAM), Amazon Linux 2, Nginx, Vue.js 3, Vite       |
 | **EC2 (Backend)**  | t3.large (2 vCPU, 8GB RAM), Amazon Linux 2, Spring Boot, Spring Security |
-| **EC2 (AI)**       | g4dn.xlarge (4 vCPU, 16GB RAM, NVIDIA T4 GPU), FastAPI, LangChain        |
+| **EC2 (AI)**       | t2.medium (2 vCPU, 4GB RAM), Amazon Linux 2, FastAPI, LangChain         |
 | **RDS**            | db.t3.medium (2 vCPU, 4GB RAM), MariaDB                                 |
-| **S3**             | 표준 스토리지 (계약서, 사원 프로필, 증빙 자료 등)                       |
-| **CloudFront**     | 캐싱 및 CDN (정적 리소스 제공)                                          |
-| **Route 53**       | DNS 관리                                                                |
-
+| **S3**             | 5GB 표준 스토리지, 총 5개의 버킷 (계약서, 사원 프로필, 증빙 자료 등)     |
 
 ### 📌 WBS (Work Breakdown Structure)
 [![Be09-Fin-WBS](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/Be09-Fin-WBS.png)
