@@ -122,7 +122,7 @@
 ---
 
 
-## 📑 프로젝트 기획
+# 📑 프로젝트 기획
 
 ### 📌 프로젝트 기획서
 [![프로젝트 기획서](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.png)](https://github.com/Be09-Fin-Pado/.github/raw/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.png)
@@ -134,9 +134,20 @@
 [![단위 테스트 결과서 다운로드](https://img.shields.io/badge/📑_단위_테스트_결과서-다운로드-4A90E2?style=for-the-badge&logo=readthedocs&labelColor=blue)](https://github.com/user-attachments/files/18246698/Pado_.pdf)
 
 
-
 ### 📌 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/e21397c2-aa73-4579-a67f-245f0bf778af)
+
+### 📌 프로그램 사양서
+
+| **구성 요소**      | **사양**                                                                 |
+|--------------------|--------------------------------------------------------------------------|
+| **EC2 (Frontend)** | t2.medium (2 vCPU, 4GB RAM), Amazon Linux 2, Nginx, Vue.js 3, Vite       |
+| **EC2 (Backend)**  | t3.large (2 vCPU, 8GB RAM), Amazon Linux 2, Spring Boot, Spring Security |
+| **EC2 (AI)**       | g4dn.xlarge (4 vCPU, 16GB RAM, NVIDIA T4 GPU), FastAPI, LangChain        |
+| **RDS**            | db.t3.medium (2 vCPU, 4GB RAM), MariaDB                                 |
+| **S3**             | 표준 스토리지 (계약서, 사원 프로필, 증빙 자료 등)                       |
+| **CloudFront**     | 캐싱 및 CDN (정적 리소스 제공)                                          |
+| **Route 53**       | DNS 관리                                                                |
 
 
 ### 📌 WBS (Work Breakdown Structure)
@@ -145,7 +156,7 @@
 ### 📌 ERD(개념 모델링)
 ![image](https://github.com/user-attachments/assets/2be2d296-c653-4630-823c-2a251656b243)
 
-
+---
 
 # 📌 화면 설계서
 
