@@ -1,11 +1,17 @@
 ## Team _Pado_<a id="팀-소개">
-
-[<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://cool-mallow-c40.notion.site/pado-FINAL-12850a7aee80802da129e6343bb2f12b?pvs=4)
 | <img src="https://github.com/user-attachments/assets/5a0d8aa8-0a1f-41f3-a93f-b2985c1765d6" height="100"/> | <img src="https://github.com/user-attachments/assets/79d48cf7-bdd4-4ec1-831c-bb57d5d9f57d" height="100"/> | <img src="https://github.com/user-attachments/assets/74133185-5305-4361-a9e0-52e76f67de3d" height="100"/> | <img src="https://github.com/user-attachments/assets/a17e5ef4-f7be-48fb-ae41-5cd3b27f5918" height="100"/> | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height="100"/> | <img src="https://github.com/user-attachments/assets/87c92c58-17cc-4ee5-bd27-6e580623a86e" height="100"/>|
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | 박경희 | 윤채연 | 전기범 | 장민근 | 조창욱 | 최해관 | 
 | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/iwillbfine) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/yncayn) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/caolian2003) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Haegwan-Choe) |
 | ISTP | ISFP | INFJ | INTP | ESTJ | ENTJ |
+
+---
+
+## 📢 발표 영상  
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://www.youtube.com/watch?v=zQwBRuSwOas)  
+
+## 🔗 협업 자료  
+[![Notion](https://img.shields.io/badge/Notion-View-333333?logo=Notion)](https://cool-mallow-c40.notion.site/pado-FINAL-12850a7aee80802da129e6343bb2f12b?pvs=4)
 
 ---
 
