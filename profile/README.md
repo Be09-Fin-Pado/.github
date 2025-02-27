@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 📢 발표 영상  
 [![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://www.youtube.com/watch?v=zQwBRuSwOas)  
 
@@ -15,6 +16,10 @@
 
 ---
 
+# 📌 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/e21397c2-aa73-4579-a67f-245f0bf778af)
+
+---
 # 기술 스택 <a id="기술-스택">
 
 ### 1. Backend <a id="1-backend"></a>
@@ -138,10 +143,6 @@
 
 ### 📌 단위 테스트 결과서
 [![단위 테스트 결과서 다운로드](https://img.shields.io/badge/📑_단위_테스트_결과서-다운로드-4A90E2?style=for-the-badge&logo=readthedocs&labelColor=blue)](https://github.com/user-attachments/files/18246698/Pado_.pdf)
-
-
-### 📌 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/e21397c2-aa73-4579-a67f-245f0bf778af)
 
 ### 📌 프로그램 사양서
 
